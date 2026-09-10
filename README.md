@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 ## Two Pointers
 |  |
 | ------- |
