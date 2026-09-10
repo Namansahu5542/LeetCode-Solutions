@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
