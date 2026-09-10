@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search
 |  |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
