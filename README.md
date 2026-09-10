@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 ## Sorting
 |  |
 | ------- |
