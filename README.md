@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0086-partition-list) |
+| [0141-linked-list-cycle](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0141-linked-list-cycle](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 ## Backtracking
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0086-partition-list](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 ## Algorithm X
 |  |
 | ------- |
@@ -123,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
