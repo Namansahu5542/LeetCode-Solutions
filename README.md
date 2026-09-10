@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search
@@ -83,8 +84,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0055-jump-game) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
