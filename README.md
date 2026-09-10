@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 ## Sorting
 |  |
 | ------- |
