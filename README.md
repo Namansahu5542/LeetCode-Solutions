@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Pigeonhole Principle
 |  |
 | ------- |
