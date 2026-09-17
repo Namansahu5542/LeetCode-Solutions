@@ -9,34 +9,26 @@
  * }
  */
 class Solution {
-    public static ListNode reverse(ListNode head) {
-        ListNode temp1 = null, temp2 = null, curr = head;
-        while (curr != null) {
-            temp1 = curr.next;
-            curr.next = temp2;
-            temp2 = curr;
-            curr = temp1;
-        }
-        return temp2;
-    }
 
     public ListNode doubleIt(ListNode head) {
-        if (head.val >= 5) {
-            ListNode extra = new ListNode(0);
-            extra.next = head;
-            head = extra;
-        }
-        head = reverse(head);
-        int carry=0;
         ListNode temp = head;
+        if (head.val >= 5) {
+            head = new ListNode(1,head);
+            temp=head.next;
+        }
+       
+        int carry=0;
         while(temp!=null){
+            if(temp.next!=null && temp.next.val>4){
+                carry=1;
+            }
             int ele=(temp.val*2)+carry;
             int val = ele%10;
             temp.val=val;
-            carry =ele/10;
+            carry=0;
             temp=temp.next;
         }
-        head=reverse(head);
+
         return head;
     }
 }
