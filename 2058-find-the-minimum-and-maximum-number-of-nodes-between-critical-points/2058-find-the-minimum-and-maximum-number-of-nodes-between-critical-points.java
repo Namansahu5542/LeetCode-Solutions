@@ -10,41 +10,50 @@
  */
 class Solution {
     public int[] nodesBetweenCriticalPoints(ListNode head) {
-        int[] MinMax = new int[2];
-        MinMax[0] = -1;
-        MinMax[1] = -1;
-        int pos = 2;
         List<Integer> li = new ArrayList<>();
-        ListNode left = head, mid = head.next, right = head.next.next;
-        if (right == null) {
-            return MinMax;
+        ListNode leftNode = null, RightNode = null, MiddleNode = null;
+        if ((head != null && head.next != null) && (head.next.next != null)) {
+            leftNode = head;
+            MiddleNode = head.next;
+            RightNode = head.next.next;
+        } else {
+            return new int[] { -1, -1 };
         }
-        while (right != null) {
-            if (mid.val < right.val && mid.val < left.val) {
+        int pos = 2;
+        while (RightNode != null) {
+            //local minimum
+            if ((MiddleNode.val < leftNode.val) && (MiddleNode.val < RightNode.val)) {
                 li.add(pos);
             }
-            if (mid.val > left.val && mid.val > right.val) {
+            //local maxima
+            else if ((MiddleNode.val > leftNode.val) && (MiddleNode.val > RightNode.val)) {
                 li.add(pos);
             }
+
             pos++;
-            left = mid;
-            mid = right;
-            right = right.next;
+            leftNode = leftNode.next;
+            MiddleNode = MiddleNode.next;
+            RightNode = RightNode.next;
+
         }
+        int MinMax[] = new int[2];
         int l = li.size();
-        if (l >= 2) {
-            int MinDistance = Integer.MAX_VALUE;
-            for (int i = l - 1; i > 0; i--) {
-                int min = li.get(i) - li.get(i - 1);
-                if (MinDistance > min) {
-                    MinDistance = min;
+        if (l > 1) {
+            int maxDistance = li.get(l - 1) - li.get(0);
+            MinMax[1] = maxDistance;
+            //minimum distance
+            int min = Integer.MAX_VALUE;
+            for (int i = 0; i < l - 1; i++) {
+                int minValue = li.get(i + 1) - li.get(i);
+                if (minValue < min) {
+                    min = minValue;
                 }
-
             }
-            MinMax[0] = MinDistance;
-            MinMax[1] = li.get(l - 1) - li.get(0);
+            MinMax[0] = min;
+        } else {
+            return new int[] { -1, -1 };
         }
-        return MinMax;
 
+        return MinMax;
     }
 }
