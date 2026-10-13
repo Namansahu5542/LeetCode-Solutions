@@ -7,24 +7,22 @@ class Solution {
             if (ele == '(' || ele == '[' || ele == '{') {
                 st.push(ele);
             } else {
-                if (st.isEmpty()) {
-                    return false;
-                }
+
                 if (ele == ')') {
 
-                    if (st.peek() != '(') {
+                    if ((st.isEmpty()) || st.peek() != '(') {
                         return false;
                     }
 
                 } else if (ele == ']') {
 
-                    if (st.peek() != '[') {
+                    if ((st.isEmpty()) || st.peek() != '[') {
                         return false;
                     }
 
                 } else {
 
-                    if (st.peek() != '{') {
+                    if ((st.isEmpty()) || st.peek() != '{') {
                         return false;
                     }
 
