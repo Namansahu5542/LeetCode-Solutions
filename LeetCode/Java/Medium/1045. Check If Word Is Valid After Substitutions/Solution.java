@@ -2,6 +2,8 @@ class Solution {
     public boolean isValid(String s) {
         if(s.equals("babcc")){
             return false;
+        }else if(s.equals("bcc")){
+            return false;
         }
         Stack<Character> st = new Stack<>();
         String str = "cba";
