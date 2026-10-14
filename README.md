@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 ## Trie
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Pigeonhole Principle
 |  |
