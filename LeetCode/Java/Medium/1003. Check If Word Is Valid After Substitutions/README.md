@@ -1,6 +1,6 @@
 # 📝 1003. Check If Word Is Valid After Substitutions (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)
+🔗 [Problem Link](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
