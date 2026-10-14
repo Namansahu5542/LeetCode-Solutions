@@ -8,7 +8,7 @@ class Solution {
             char ch = s.charAt(i);
             st.push(ch);
             if (ch == 'c') {
-                while (!st.isEmpty() && k < str.length()) {
+                while (!st.isEmpty() && k < 3) {
                     char ele = st.pop();
                     if (ele != str.charAt(k)) {
                         return false;
