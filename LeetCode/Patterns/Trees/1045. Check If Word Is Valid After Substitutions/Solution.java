@@ -19,6 +19,9 @@ class Solution {
                     }
                     k++;
                 }
+                if(k<2){
+                    return false;
+                }
                 k=0;
             }
 
