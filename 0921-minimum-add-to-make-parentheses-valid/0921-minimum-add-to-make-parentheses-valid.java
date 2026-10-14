@@ -3,7 +3,7 @@ class Solution {
         Stack<Character> st = new Stack<>();
         int count = 0;
         for (char ch : s.toCharArray()) {
-            if (ch == '(' || ch == '[' || ch == '{') {
+            if (ch == '(') {
                 st.push(ch);
             } else {
                 if (st.isEmpty()) {
@@ -16,22 +16,12 @@ class Solution {
                         } else {
                             st.pop();
                         }
-                    } else if (ch == ']') {
-                        if (st.peek() != '[') {
-                            count++;
-                        } else {
-                            st.pop();
-                        }
-                    } else {
-                        if (st.peek() != '{') {
-                            count++;
-                        } else {
-                            st.pop();
-                        }
-                    }
-                }
 
+                    }
+
+                }
             }
+
         }
         if (!st.isEmpty()) {
             count = count + st.size();
