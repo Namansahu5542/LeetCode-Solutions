@@ -23,9 +23,9 @@ class Solution {
             }
 
         }
-        if (!st.isEmpty()) {
+       
             count = count + st.size();
-        }
+        
         return count;
     }
 }
