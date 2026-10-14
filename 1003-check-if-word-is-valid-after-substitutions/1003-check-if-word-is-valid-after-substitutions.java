@@ -1,32 +1,24 @@
 class Solution {
     public boolean isValid(String s) {
-
         Stack<Character> st = new Stack<>();
-        String str = "cba";
-        int k = 0;
-        for (int i = 0; i < s.length(); i++) {
-            char ch = s.charAt(i);
-            st.push(ch);
-            if (ch == 'c') {
-                while (!st.isEmpty() && k < 3) {
-                    char ele = st.pop();
-                    if (ele != str.charAt(k)) {
-                        return false;
-                    }
-                    if (st.isEmpty() && k < 2) {
-
-                        return false;
-                    }
-                    k++;
+        for(char ch :s.toCharArray()){
+            if(ch=='a' || ch=='b'){
+                st.push(ch);
+            }else{
+                if(st.size()<2){
+                    return false;
                 }
-                
-                k = 0;
-            }
+                if(st.peek()!='b'){
+                    return false;
+                }
+                st.pop();
+                if(st.peek()!='a'){
+                    return false;
+                }
+                st.pop();
 
+            }
         }
-        if (st.isEmpty()) {
-            return true;
-        }
-        return false;
+        return st.isEmpty();
     }
 }
