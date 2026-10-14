@@ -1,10 +1,6 @@
 class Solution {
     public boolean isValid(String s) {
-        if(s.equals("babcc")){
-            return false;
-        }else if(s.equals("bcc")){
-            return false;
-        }
+
         Stack<Character> st = new Stack<>();
         String str = "cba";
         int k = 0;
@@ -17,12 +13,16 @@ class Solution {
                     if (ele != str.charAt(k)) {
                         return false;
                     }
+                    if (st.isEmpty() && k < 2) {
+
+                        return false;
+                    }
                     k++;
                 }
-                if(k<2){
+                if (k < 2) {
                     return false;
                 }
-                k=0;
+                k = 0;
             }
 
         }
