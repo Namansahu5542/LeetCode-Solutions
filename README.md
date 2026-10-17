@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
@@ -199,5 +202,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
