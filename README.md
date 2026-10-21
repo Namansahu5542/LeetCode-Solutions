@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0739-daily-temperatures](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
