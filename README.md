@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0739-daily-temperatures](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Pigeonhole Principle
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Design
 |  |
 | ------- |
