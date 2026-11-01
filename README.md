@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0739-daily-temperatures](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Binary Search
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 ## Algorithm X
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Memoization
 |  |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0455-assign-cookies](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -233,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0901-online-stock-span) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
