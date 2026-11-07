@@ -35,7 +35,7 @@ class BrowserHistory {
     }
 
     public String forward(int steps) {
-        
+        int count = undo.size();
         while (steps != 0 && !undo.isEmpty()) {
 
             String redo = undo.pop();
@@ -46,6 +46,13 @@ class BrowserHistory {
     }
 }
 
+/**
+ * Your BrowserHistory object will be instantiated and called as such:
+ * BrowserHistory obj = new BrowserHistory(homepage);
+ * obj.visit(url);
+ * String param_2 = obj.back(steps);
+ * String param_3 = obj.forward(steps);
+ */
 /**
  * Your BrowserHistory object will be instantiated and called as such:
  * BrowserHistory obj = new BrowserHistory(homepage);
