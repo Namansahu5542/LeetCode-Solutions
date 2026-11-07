@@ -35,7 +35,7 @@ class BrowserHistory {
     }
 
     public String forward(int steps) {
-        int count = undo.size();
+        
         while (steps != 0 && !undo.isEmpty()) {
 
             String redo = undo.pop();
