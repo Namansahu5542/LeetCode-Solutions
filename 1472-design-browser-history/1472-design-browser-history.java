@@ -1,11 +1,11 @@
 class BrowserHistory {
-    String Homepage;
+    
     Stack<String> st = new Stack<>();
     Stack<String> undo = new Stack<>();
 
     public BrowserHistory(String homepage) {
-        this.Homepage = homepage;
-        st.push(Homepage);
+        
+        st.push(homepage);
     }
 
     public void visit(String url) {
