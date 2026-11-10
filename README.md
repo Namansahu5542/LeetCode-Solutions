@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/1472-design-browser-history) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
