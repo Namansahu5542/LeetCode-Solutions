@@ -1,6 +1,6 @@
 class Solution {
     public static void PreviousEle(int[] arr, int[] prev) {
-        Stack<Integer> st = new Stack<>();
+        Deque<Integer> st = new ArrayDeque<>();
 
         for (int i = arr.length - 1; i >= 0; i--) {
             while (!st.isEmpty() && arr[i] < arr[st.peek()]) {
@@ -14,7 +14,7 @@ class Solution {
     }
 
     public static void nextEle(int[] arr, int[] next) {
-        Stack<Integer> st = new Stack<>();
+       Deque<Integer> st = new ArrayDeque<>();
 
         for (int i = 0; i < arr.length; i++) {
             while (!st.isEmpty() && arr[i] < arr[st.peek()]) {
