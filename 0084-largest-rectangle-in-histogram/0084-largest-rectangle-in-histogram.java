@@ -1,30 +1,45 @@
 class Solution {
-    public int largestRectangleArea(int[] heights) {
-        int n = heights.length;
+    public static void PreviousEle(int[] arr, int[] prev) {
         Stack<Integer> st = new Stack<>();
 
-        int maxArea = 0;
-
-        for (int i = 0; i <= n; i++) {
-            while (!st.isEmpty() &&
-                   (i == n || heights[st.peek()] >= heights[i])) {
-
-                int height = heights[st.pop()];
-
-                int rightBoundary = i;
-
-                int leftBoundary = st.isEmpty()
-                        ? -1
-                        : st.peek();
-
-                int width = rightBoundary - leftBoundary - 1;
-
-                maxArea = Math.max(maxArea, height * width);
+        for (int i = arr.length - 1; i >= 0; i--) {
+            while (!st.isEmpty() && arr[i] < arr[st.peek()]) {
+                prev[st.pop()] = i;
             }
-
             st.push(i);
         }
+        while (!st.isEmpty()) {
+            prev[st.pop()] = -1;
+        }
+    }
 
+    public static void nextEle(int[] arr, int[] next) {
+        Stack<Integer> st = new Stack<>();
+
+        for (int i = 0; i < arr.length; i++) {
+            while (!st.isEmpty() && arr[i] < arr[st.peek()]) {
+                next[st.pop()] = i;
+            }
+            st.push(i);
+        }
+        while (!st.isEmpty()) {
+            next[st.pop()] = arr.length;
+        }
+
+    }
+
+    public int largestRectangleArea(int[] heights) {
+        int prev[] = new int[heights.length];
+        int next[] = new int[heights.length];
+        int maxArea = -1;
+
+        PreviousEle(heights, prev);
+        nextEle(heights, next);
+        for (int i = 0; i < heights.length; i++) {
+            int width = next[i] - prev[i] - 1;
+            int area = width * heights[i];
+            maxArea = Math.max(maxArea, area);
+        }
         return maxArea;
     }
 }
