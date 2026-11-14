@@ -26,9 +26,7 @@ class Solution {
 
             }
 
-            if (AmtOfFive < 0 || AmtOfTen < 0) {
-                return false;
-            }
+            
         }
         return true;
     }
