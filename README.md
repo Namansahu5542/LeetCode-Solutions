@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/1472-design-browser-history) |
 ## Binary Search
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Memoization
 |  |
