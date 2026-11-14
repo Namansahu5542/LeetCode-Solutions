@@ -9,7 +9,7 @@ class Solution {
                 AmtOfFive -= 5;
                 AmtOfTen += 10;
             } else {
-                if (AmtOfTen > 0) {
+                if (AmtOfTen > 0 && AmtOfFive >= 5) {
                     AmtOfTen -= 10;
                     AmtOfFive -= 5;
                 } else {
