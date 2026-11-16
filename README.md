@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0435-non-overlapping-intervals](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0435-non-overlapping-intervals](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 ## Simulation
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0435-non-overlapping-intervals](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 ## Floyd's Cycle Finding Algorithm
 |  |
