@@ -1,46 +1,35 @@
 class MyStack {
+
     Deque<Integer> dq;
- Deque<Integer> temp ;
+    Deque<Integer> temp;
+
     public MyStack() {
-temp=new ArrayDeque<>();
         dq = new ArrayDeque<>();
+        temp = new ArrayDeque<>();
     }
 
     public void push(int x) {
-       
+
         while (!dq.isEmpty()) {
-            temp.addLast(dq.remove());
+            temp.addLast(dq.removeFirst());
         }
+
         dq.addLast(x);
+
         while (!temp.isEmpty()) {
-            dq.addLast(temp.remove());
+            dq.addLast(temp.removeFirst());
         }
     }
 
     public int pop() {
-        if (dq.isEmpty()) {
-            return -1;
-        }
-        return dq.remove();
+        return dq.isEmpty() ? -1 : dq.removeFirst();
     }
 
-   public int top() {
-    if (dq.isEmpty()) {
-        return -1;
+    public int top() {
+        return dq.isEmpty() ? -1 : dq.peekFirst();
     }
-    return dq.peek();
-}
 
     public boolean empty() {
-    return dq.isEmpty();
+        return dq.isEmpty();
+    }
 }
-}
-
-/**
- * Your MyStack object will be instantiated and called as such:
- * MyStack obj = new MyStack();
- * obj.push(x);
- * int param_2 = obj.pop();
- * int param_3 = obj.top();
- * boolean param_4 = obj.empty();
- */
