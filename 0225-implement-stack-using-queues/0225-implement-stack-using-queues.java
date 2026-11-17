@@ -32,11 +32,8 @@ temp=new ArrayDeque<>();
 }
 
     public boolean empty() {
-        if (dq.isEmpty()) {
-            return true;
-        }
-        return false;
-    }
+    return dq.isEmpty();
+}
 }
 
 /**
