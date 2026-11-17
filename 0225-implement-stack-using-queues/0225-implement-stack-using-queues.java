@@ -24,14 +24,12 @@ temp=new ArrayDeque<>();
         return dq.remove();
     }
 
-    public int top() {
-        if (dq.isEmpty()) {
-            return -1;
-        }
-        int ans = dq.remove();
-        push(ans);
-        return dq.peek();
+   public int top() {
+    if (dq.isEmpty()) {
+        return -1;
     }
+    return dq.peek();
+}
 
     public boolean empty() {
         if (dq.isEmpty()) {
