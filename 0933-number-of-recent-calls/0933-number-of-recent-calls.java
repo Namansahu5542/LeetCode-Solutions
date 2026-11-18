@@ -10,15 +10,9 @@ class RecentCounter {
 
     public int ping(int t) {
         q.offer(t);
-        int r1 = t - 3000, r2 = t;
-        int size = q.size();
-        for (int i = 0; i < size; i++) {
-            int ele = q.peek();
-            if (ele < r1) {
-                q.poll();
-            } else {
-                break;
-            }
+        
+       while (q.peekFirst() < t - 3000) {
+            q.pollFirst();
         }
         return q.size();
     }
