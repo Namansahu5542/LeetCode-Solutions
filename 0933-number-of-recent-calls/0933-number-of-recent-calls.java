@@ -14,9 +14,13 @@ class RecentCounter {
         int prevCount = 0;
         for (int i = 0; i < q.size()-1; i++) {
             int req = q.get(i);
+            if(req>r2){
+                break;
+            }
             if (req >= r1 && req <= r2) {
                 prevCount++;
             }
+
         }
         return 1 + prevCount;
     }
