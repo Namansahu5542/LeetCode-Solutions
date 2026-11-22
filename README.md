@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [2119-a-number-after-a-double-reversal](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Namansahu5542/LeetCode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Linked List
 |  |
